@@ -13,5 +13,5 @@
 
 Сборка и пример запуска
 
-./mvnw clean package
-java -jar target/myApp.jar 1
+- ./mvnw clean package
+- java -jar target/myApp.jar 1
